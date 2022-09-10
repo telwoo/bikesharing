@@ -1,7 +1,7 @@
 # CitiBike Sharing
 
 ## Link to Story
-Tableau Link (https://public.tableau.com/app/profile/chauntel.wooten/viz/Book1_16628172542120/Story2?publish=yes))
+[Tableau Link] (https://public.tableau.com/app/profile/chauntel.wooten/viz/Book1_16628172542120/Story2?publish=yes))
 
 ##T he written analysis has the following:
 
