@@ -1,12 +1,10 @@
 # CitiBike Sharing
 
-## Link to Story
+## Link to Story:
 [Tableau Link](https://public.tableau.com/app/profile/chauntel.wooten/viz/Book1_16628172542120/Story2?publish=yes)
 
-##T he written analysis has the following:
-
 ## Overview of the statistical analysis:
-The purpose of the analysis is well defined. (5 pt)
+The overall purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders wanted to see a bike trip analysis. The details below show of an outline of why this would be beneficial and the statistics around such decision.
 
 
 ## Results:
