@@ -1,5 +1,8 @@
 # CitiBike Sharing
 
+## Link to Story
+[link to dashboard]([LINK GOES HERE](https://public.tableau.com/app/profile/chauntel.wooten/viz/Book1_16628172542120/Story2?publish=yes))
+
 ##T he written analysis has the following:
 
 ## Overview of the statistical analysis:
